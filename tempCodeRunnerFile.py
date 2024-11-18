@@ -1,0 +1,1 @@
+UPDATE {username}.credentials SET password = '{new_hash}' WHERE password = '{hash}'
